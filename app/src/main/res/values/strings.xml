@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">TicTac</string>
+    <string name="instructions">Добро пожаловать в TicTac! Есть два игрока. Игрок 1 представлен акулой, а игрок 2 представлен человеком. Первый игрок, получивший 3 совпадения подряд по вертикали, по горизонтали или по диагонали считается победителем.</string>
+    <string name="playerOneText">1 игрок:</string>
+    <string name="playerOneInput">Введите имя</string>
+    <string name="playerTwoText">2 игрок:</string>
+    <string name="playerTwoInput">Введите имя</string>
+    <string name="playButton">ИГРАТЬ :)</string>
+    <string name="quitButton">ВЫЙТИ :(</string>
+    <string name="playAgainButton">НОВАЯ ИГРА</string>
+    <string name="action_settings">Выход</string>
+</resources>
